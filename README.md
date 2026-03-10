@@ -21,8 +21,6 @@ The dashboard answers key business questions such as:
 
 The dataset contains hospital emergency room records with the following fields:
 
-## 📂 Dataset Description
-
 The dataset contains records of patients visiting the hospital emergency room.  
 It includes patient demographics, admission details, waiting time, and satisfaction scores which help analyze hospital performance and patient experience.
 
