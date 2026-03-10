@@ -1,4 +1,5 @@
-# Hospital-Emergency-Room-Analysis-Excel-Dashboard
+# Hospital-Emergency-Room-Analysis
+## Excel Dashboard
 ### 📌 Project Overview
 
 This project analyzes Hospital Emergency Room (ER) data to understand patient flow, waiting time, admission trends, and patient satisfaction.
